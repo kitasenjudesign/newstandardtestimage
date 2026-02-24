@@ -4,6 +4,6 @@ Instead of Lena, I created a test image of an Asian man using AI. Since most tes
 
 ![lena](./lena.png "lena")
 ![girl](./girl.png "girl")
-![cameraman](./cameranman.png "cameraman")
+![cameraman](./cameraman.png "cameraman")
 ![mandrill](./mandrill.png "mandrill")
 
